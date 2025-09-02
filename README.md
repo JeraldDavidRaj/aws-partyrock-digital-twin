@@ -1,5 +1,6 @@
 # aws-partyrock-digital-twin
 AI-Powered Personal Digital Twin Simulator – predicts future outcomes and optimization suggestions based on lifestyle and goals
+<<<<<<< HEAD
 
 Personal Horizon: Your AI Future Self Simulator
 📌 Overview
@@ -55,3 +56,5 @@ Mobile-Friendly UI: Enhance user experience on mobile devices.
 
 This project is licensed under the MIT License – see the LICENSE
  file for details.
+=======
+>>>>>>> 01ca3cc8a89409a4017e5638d22d9c02998624ce
