@@ -1,60 +1,54 @@
-# aws-partyrock-digital-twin
-AI-Powered Personal Digital Twin Simulator – predicts future outcomes and optimization suggestions based on lifestyle and goals
-<<<<<<< HEAD
+# AWS PartyRock – Digital Twin Daily Planner
+```
+## 📌 Overview
+This project is a **Daily Planner Digital Twin** built using **AWS PartyRock**.  
+It transforms your personal goals and routines into a structured, actionable to-do list.  
+The app uses generative AI to organize tasks around sleep, fitness, learning, coding practice, and hobbies, making it a productivity companion for everyday life.
 
-Personal Horizon: Your AI Future Self Simulator
-📌 Overview
+🔗 **Try the App Here**: [Personal Horizon: Your AI Future Self Simulator](https://partyrock.aws/u/JeraldDavidRaj23/uuDnWLqFO/Personal-Horizon%3A-Your-AI-Future-Self-Simulator)
 
-Personal Horizon is a generative AI-powered digital twin built using AWS PartyRock. It transforms your personal goals and routines into a structured, actionable daily plan. By inputting your aspirations—such as career objectives, fitness targets, and learning milestones—the app crafts a personalized schedule that aligns with your vision of the future.
+---
 
-🔗 Try the App Here
+## ✨ Features
+- Goal-Driven Planning: Converts personal goals into a structured daily routine.  
+- Adaptive Scheduling: Incorporates sleep, gym, learning, and personal development.  
+- Generative AI-Powered: Utilizes advanced AI to craft personalized schedules.
+- User-Friendly Interface: Easy input through a single field for personal goals.  
 
-✨ Features
+---
 
-Goal-Driven Planning: Converts personal goals into a structured daily routine.
+## 🖼️ Screenshots  
 
-Adaptive Scheduling: Incorporates sleep, gym, learning, and personal development.
+✅ Input Example
+🎯 Output Example
 
-Generative AI-Powered: Utilizes advanced AI to craft personalized schedules.
+---
 
-User-Friendly Interface: Easy input through a single field for personal goals.
+## 🛠️ Technologies Used
+- **AWS PartyRock** – Generative AI app builder  
+- **Prompt Engineering** – Crafting effective routines & schedules  
+- **GitHub** – Version control and open-source hosting  
 
-🖼️ Screenshots
-Input Example
+---
 
-Output Example
+## 📖 How It Works
+1. User provides **personal goals and routines** (e.g., sleep hours, gym time, learning focus).  
+2. The app converts them into a **structured schedule**.  
+3. Output includes an **organized daily to-do list** with optional add-ons.  
 
-(Optional: Add a GIF demo here)
+---
 
-🛠️ Technologies Used
+## 🌱 Future Enhancements
+- Integration with **Google Calendar / Outlook**.  
+- Personalized **notifications and reminders**.  
+- Export routines to **CSV or PDF**.  
+- **Mobile-friendly UI** improvements.  
 
-AWS PartyRock: Generative AI app builder
+---
 
-Prompt Engineering: Crafting effective daily routine generation
+## 📄 License
+This project is licensed under the **MIT License** – see the [LICENSE](./LICENSE) file for details.  
 
-GitHub: Version control and open-source hosting
+```
 
-📖 How It Works
 
-Input Personal Goals: Enter your aspirations and routines (e.g., sleep hours, gym time, learning focus).
-
-AI Processing: The app processes your input to generate a structured schedule.
-
-Output: Receive an organized daily to-do list with optional add-ons.
-
-🌱 Future Enhancements
-
-Calendar Integration: Sync with Google Calendar or Outlook.
-
-Personalized Notifications: Receive reminders and updates.
-
-Export Options: Export routines to CSV or PDF.
-
-Mobile-Friendly UI: Enhance user experience on mobile devices.
-
-📄 License
-
-This project is licensed under the MIT License – see the LICENSE
- file for details.
-=======
->>>>>>> 01ca3cc8a89409a4017e5638d22d9c02998624ce
